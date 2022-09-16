@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uppgift 2.11 Wael", "uppgift 2.11 Wael\uppgift 2.11 Wael.csproj", "{3A4C4885-7E45-495C-B5D7-6E68D2992DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4C4885-7E45-495C-B5D7-6E68D2992DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4C4885-7E45-495C-B5D7-6E68D2992DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4C4885-7E45-495C-B5D7-6E68D2992DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4C4885-7E45-495C-B5D7-6E68D2992DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FADE6B57-66EB-4406-B57F-F8D290FC3F7F}
+	EndGlobalSection
+EndGlobal
